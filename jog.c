@@ -81,7 +81,7 @@ int main() {
 // Pausa rápida antes da próxima rodada
 
         printf("\nPressione ENTER para continuar...");
-        getchar(); // consome enter do scanf
+        getchar();  // consome enter do scanf
         getchar(); // espera enter
     }
 
@@ -98,7 +98,7 @@ int main() {
 // Créditos secretos
 
             printf("\n[]===================================[]\n");
-            printf("[]        CRÉDITOS ESPECIAIS         []\n");
+            printf("[]     CRÉDITOS ULTRA ESPECIAIS      []\n");
             printf("[]===================================[]\n");
             printf("[]                                   []\n");
             printf("[]     Parabéns, seu miseravel!      []\n");
@@ -110,6 +110,7 @@ int main() {
             printf("[]   e também falta do que fazer.    []\n");
             printf("[]                                   []\n");
             printf("[]   Até a próxima batalha. BIXA!    []\n");
+            printf("[]                                   []\n");
             printf("[]===================================[]\n");
         } else {
             printf("Você venceu! Parabéns por fazer o mínimo.\n");
